@@ -8,7 +8,7 @@ export async function getServerSideProps(context) {
   const pageId = context.params?.pageId;
 
   if (!pageId) {
-    return;
+    return ;
   }
 
   const data: BlockMapType = await fetch(
