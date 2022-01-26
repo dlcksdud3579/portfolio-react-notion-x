@@ -11,10 +11,16 @@
     "netlify-deploy": "next build && next export"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@netlify/plugin-nextjs": "^4.2.1",
     "@types/node": "^17.0.12",
     "@types/react": "^17.0.38",
     "next": "10.0.6",
+=======
+    "@types/node": "^17.0.12",
+    "@types/react": "^17.0.38",
+    "next": "^10.0.6",
+>>>>>>> parent of 54c99e6 (모두 삭제)
     "node-fetch": "^2.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
