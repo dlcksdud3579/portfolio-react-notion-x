@@ -29,7 +29,7 @@ export async function getStaticPaths() {
     }
   }
 
-  const rootNotionPageId = 'c21c68f4f56a45d3974824913639d3a0'
+  const rootNotionPageId = '7d6d56a18b5f4ad792627f112a51f778'
   const rootNotionSpaceId = 'd6d6fd89-a829-49b8-8063-6d0ff2e5857e'
 
   // This crawls all public pages starting from the given root page in order
